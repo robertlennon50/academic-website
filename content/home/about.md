@@ -1,21 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+<!--StartFragment-->
+
+I'm a linguistics researcher at the [Phonetics Lab](http://wp.lancs.ac.uk/phonetics/) at [Lancaster University](https://www.lancaster.ac.uk/). My research is in sociolinguistics, phonetics and speech perception, and I'm interested in how the social aspects of speech communities affect how speech sounds are produced and perceived.
+
+My expertise is in Scottish English (especially phonetic variation in Glasgow), rhoticity, and cross-dialect perception.
+
+<!--EndFragment-->
